@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "nson150515.play.hosting",
+    "ip": "62.141.62.6",
     "port": 25268,
     "version": "1.21.1",
     "try-creative": false
